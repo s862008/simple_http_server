@@ -11,4 +11,6 @@ or print that in adrees input of  browser
 
 /echo   - return  echo date of requests
 
+- need folder by name "web"  where store html files
+
 use jdk 1.8
